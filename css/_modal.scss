@@ -1,0 +1,17 @@
+$color-mid: #901cad;
+$color-teal: #17A2B8;
+$modal-text: #fff;
+
+#reserveModal {
+    .modal-header {
+     background-color:$color-teal;
+     color:rgb(241, 241, 241);   
+    }
+  }
+
+  #loginModal {
+    .modal-header {
+        background-color: $color-mid;
+        color: $modal-text;
+    }
+  }
